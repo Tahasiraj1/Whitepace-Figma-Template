@@ -10,7 +10,7 @@ const FreeTrial = () => {
       <p className='mb-10 sm:text-start lg:text-center'>
         Get started for free.<br /> Add your whole team as your needs grow.
       </p>
-      <button className='flex mb-8 w-[218] h-[59] bg-[#4F9CF9] items-center justify-center rounded-lg'>
+      <button className='flex mb-8 w-[218px] h-[59px] bg-[#4F9CF9] items-center justify-center rounded-lg'>
         Try Taskey free <ArrowRight />
       </button>
       <h2 className='text-lg mb-8'>
