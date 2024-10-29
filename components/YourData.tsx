@@ -41,7 +41,7 @@ const YourData = () => {
                     </svg>
             </h1>
             <p className='2xl:mb-10 xl:mb-10 lg:mb-10 md:mb-5 sm:mb-5 px-4'>
-                The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
+                The app is open source and your notes are saved to an open format, so you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.
             </p>
             <button className='bg-[#4F9CF9] flex items-center justify-center lg:w-[219px] lg:h-[63px] sm:w-[232px] sm:h-[70px] rounded-lg'>
                 Read more <ArrowRight />

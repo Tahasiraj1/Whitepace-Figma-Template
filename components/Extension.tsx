@@ -43,7 +43,7 @@ const Extension = () => {
                 Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.
             </p>
             <button className='bg-[#4F9CF9] flex items-center justify-center lg:w-[219px] lg:h-[63px] sm:w-[232px] sm:h-[70px] rounded-lg'>
-                Let's Go <ArrowRight />
+                Let&apos;s Go <ArrowRight />
             </button>
         </div>
         <div>

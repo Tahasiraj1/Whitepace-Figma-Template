@@ -59,7 +59,7 @@ const Customise = () => {
                 Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
             </p>
             <button className='bg-[#4F9CF9] text-white flex items-center justify-center lg:w-[219px] lg:h-[63px] sm:w-[232px] sm:h-[70px] rounded-lg'>
-                Let's Go <ArrowRight />
+                Let&apos;s Go <ArrowRight />
             </button>
         </div>
     </div>
