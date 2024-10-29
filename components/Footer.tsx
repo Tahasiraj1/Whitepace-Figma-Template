@@ -28,7 +28,7 @@ const Footer = () => {
             <h1 className='mb-2 font-bold text-2xl'>
                 Product
             </h1>
-            <li className='mb-2'>Overview</li>
+            <li className='mb-2 text-[#FFE492]'>Overview</li>
             <li className='mb-2'>Pricing</li>
             <li className='mb-2 sm:mb-5 lg:mb-0'>Customer stories</li>
         </ul>
